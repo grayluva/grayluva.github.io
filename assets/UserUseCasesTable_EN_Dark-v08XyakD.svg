@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2098" height="1072" viewBox="0 0 2098 1072">
+  <foreignObject width="2098" height="1072">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="canvas">
+      <style>
+        .canvas {
+          width: 2098px;
+          height: 1072px;
+          box-sizing: border-box;
+          overflow: hidden;
+          background: #15161a;
+          color: #d9d9df;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        }
+        table {
+          width: 100%;
+          height: 100%;
+          border-collapse: collapse;
+          table-layout: fixed;
+          border: 1px solid #3b3d46;
+          border-radius: 12px;
+          overflow: hidden;
+          font-size: 18px;
+          line-height: 1.35;
+        }
+        col:first-child { width: 252px; }
+        th, td {
+          border: 1px solid #3b3d46;
+          vertical-align: top;
+          padding: 20px 20px 18px;
+        }
+        th {
+          text-align: left;
+          font-weight: 650;
+          color: #f0f0f4;
+          background: #15161a;
+        }
+        td.row-label {
+          font-style: italic;
+          color: #c8c8cf;
+          background: #15161a;
+        }
+        ul {
+          margin: 0;
+          padding-left: 22px;
+        }
+        li { margin: 0 0 8px; }
+        p { margin: 0 0 10px; }
+        strong {
+          font-weight: 700;
+          color: #f3f3f5;
+        }
+        .muted { color: #b5b6bf; }
+      </style>
+      <table>
+        <colgroup>
+          <col />
+          <col />
+          <col />
+          <col />
+          <col />
+          <col />
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Use cases</th>
+            <th>Renting a car "for fun"</th>
+            <th>Free movement around the city<br />(Point A ↔ Point B ↔ Point C)</th>
+            <th>Practicing driving skills</th>
+            <th>Taxi alternative<br />(Point A → Point B)</th>
+            <th>Renting a car in another city / country</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="row-label">Problem</td>
+            <td>
+              <ul>
+                <li>Spend pleasant time with friends and drive around the city;</li>
+                <li>Try different cars from different classes;</li>
+                <li>Get positive emotions from the trip.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Send or pick up a parcel;</li>
+                <li>Get to the office, home, a meeting, etc.;</li>
+                <li>Go shopping and bring groceries;</li>
+                <li>Replace their own car while it is at the service station.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Gain experience driving different cars;</li>
+                <li>Maintain already acquired driving skills.</li>
+              </ul>
+            </td>
+            <td>
+              <p>Need a car under certain conditions:</p>
+              <ul>
+                <li>during an air-raid alert;</li>
+                <li>when curfew is approaching;</li>
+                <li>when they need to transport things;</li>
+                <li>pick someone up with bags;</li>
+                <li>go to a meeting.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Need fast movement within one city at a specific time; the simpler it is, the better.</li>
+                <li>A car must be available throughout the entire stay in another city.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td class="row-label">Persona</td>
+            <td>Mykola — Product Manager</td>
+            <td>Yaroslav, Oleksandr — IT</td>
+            <td>Enia — IT</td>
+            <td>Andrii — IT</td>
+            <td>Vlad</td>
+          </tr>
+          <tr>
+            <td class="row-label">Natural frequency<br /><span class="muted">(compared on average per year based on user interviews)</span></td>
+            <td><strong>Once / month</strong><br /><strong>Yearly</strong><br />(seasonality may affect it — favorable conditions are needed)</td>
+            <td><strong>Once / 2 weeks</strong><br /><strong>Monthly</strong></td>
+            <td><strong>Once / 2 months</strong><br /><strong>Yearly</strong><br />(seasonality may affect it — favorable conditions are needed)</td>
+            <td><strong>Once / 3 months</strong><br /><strong>Yearly</strong></td>
+            <td><strong>Once / 6-12 months</strong><br /><strong>Yearly</strong></td>
+          </tr>
+          <tr>
+            <td class="row-label">How we solve the problem</td>
+            <td>
+              <ul>
+                <li>Fast access to a variety of cars across the city;</li>
+                <li>Ability to find a car that matches specific requirements through filters;</li>
+                <li>No need to interact with unknown people;</li>
+                <li>No need to agree on pickup time — trip duration adjusts to the need.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Access to cars across the city with the ability to book and pause the trip while solving tasks at their own pace;</li>
+                <li>Ability to drive up to a building, office, garage, etc. to load or unload things.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Ability to independently control and adjust trip duration when needed;</li>
+                <li>Easy access to cars with relevant parameters, such as transmission and size.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Accessible search for the nearest car;</li>
+                <li>Predictable trip cost regardless of external conditions, such as alerts, late evening, or a trip downtown;</li>
+                <li>Ability to pick a car that matches the need.</li>
+              </ul>
+            </td>
+            <td>
+              <ul>
+                <li>Fast access to cars across the city with flexible parking zones;</li>
+                <li>Ability to book a car and pay per day rather than by the hour.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td class="row-label">Retention Metric</td>
+            <td>Yearly Active Car Rent</td>
+            <td>Monthly Active Car Rent</td>
+            <td>Yearly Active Car Rent</td>
+            <td>Yearly Active Car Rent</td>
+            <td>Yearly Active Car Rent</td>
+          </tr>
+          <tr>
+            <td class="row-label">Habit Moment</td>
+            <td>Booked and took a spontaneous ride at least 2 times within the first 2 months and repeated this at least 3 times after installing the app.</td>
+            <td>Booked a car, reached several destinations, used pause during the trip, and completed at least 2 trips within one booking during the first month after installing the app.</td>
+            <td>Booked and practiced driving skills, reviewed trip statistics, and repeated this at least 2 times within 2 months after installing the app.</td>
+            <td>Booked a car and got from Point A to Point B at least 2 times within 6 months after installing the app.</td>
+            <td>Booked a car for several days and successfully used it during the entire reserved period, then repeated this cycle at least 2 times within 2 years.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </foreignObject>
+</svg>
